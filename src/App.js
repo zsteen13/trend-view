@@ -3,6 +3,8 @@ import NavView from './components/NavView'
 
 export default function App() {
   return (
-    <p>hi</p>
+    <div className="App">
+      <NavView />
+    </div>
   )
 }
