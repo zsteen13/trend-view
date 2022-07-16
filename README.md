@@ -1,3 +1,11 @@
+# TREND-VIEW
+## TODO
+- [ ] Update README.md
+- [ ] Make contribution guide
+- [ ] Host on AWS and make a pipeline
+- [ ] Add linter
+- [ ] Add github yaml config to run linter and test suite, with min coverage for commits
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
