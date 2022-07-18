@@ -36,7 +36,6 @@
     ]
   },
   "devDependencies": {
-    "babel-plugin-import": "^1.13.5",
     "customize-cra": "^1.0.0"
   }
 }
