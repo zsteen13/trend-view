@@ -43,5 +43,5 @@ export default function({drawerWidth, open, handleDrawerOpen}) {
           </Typography>
         </Toolbar>
       </AppBar>
-  )
+  );
 }
